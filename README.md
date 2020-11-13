@@ -1,3 +1,5 @@
+# IMPORTANT : voir dans le dossier
+
 # Pour le 26/11
 
 | Personne | Partie | autres |
