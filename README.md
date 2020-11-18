@@ -1,5 +1,7 @@
 # IMPORTANT : voir dans le dossier
 
+Pour l'apperçu du fichier [EMC.odt](./EMC.odt) (fichier libreoffice), cliquer sur [EMC.pdf](./EMC.pdf)
+
 # Pour le 26/11
 
 | Personne | Partie | autres |
