@@ -1,4 +1,4 @@
-# IMPORTANT : voir dans le dossier
+# IMPORTANT : voir dans le dossier [./Déprécié_-_ancien/](./Déprécié_-_ancien/)
 
 Pour l'apperçu du fichier [EMC.odt](./EMC.odt) (fichier libreoffice), cliquer sur [EMC.pdf](./EMC.pdf)
 
