@@ -1,4 +1,4 @@
-# IMPORTANT : voir dans le dossier [./ElioGabrienSwannLilyLéonard 2/](./ElioGabrienSwannLilyLéonard 2/)
+# IMPORTANT : voir dans le dossier <a href="./ElioGabrienSwannLilyLéonard 2/">ElioGabrienSwannLilyLéonard 2/</a>
 
 Pour l'apperçu du fichier [EMC.odt](./EMC.odt) (fichier libreoffice), cliquer sur [EMC.pdf](./EMC.pdf)
 
